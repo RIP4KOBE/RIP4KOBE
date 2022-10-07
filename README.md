@@ -2,7 +2,7 @@
 
  Hello ~ 👋
  
- 🔭 I’m currently working on Learning-based robotic dexterous grasping, manipulation and motion planning
+ 🔭 I’m currently working on learning-based robotic grasping, manipulation and motion planning
  
  📫 contact me through li_zhuo@hust.edu.cn
 <!--
